@@ -1,0 +1,18 @@
+[
+	{
+		"id":1,
+		"ten":"Ch\u00f9a Linh \u1ee8ng",
+		"vitri":"S\u01a1n Tr\u00e0 - \u0110\u00e0 N\u1eb5ng",
+		"hinhanh":"https://danangfantasticity.com/wp-content/uploads/2019/09/chua-linh-ung-chon-binh-yen-giua-long-da-nang-013-2.jpg",
+		"thongtin":"Ch\u00f9a Linh \u1ee8ng \u2013 B\u00e3i B\u1ee5t, S\u01a1n Tr\u00e0, \u0110\u00e0 N\u1eb5ng l\u00e0 m\u1ed9t trong ba ng\u00f4i ch\u00f9a c\u00f9ng mang t\u00ean Linh \u1ee8ng \u1edf \u0110\u00e0 N\u1eb5ng. Kh\u00f4ng r\u00f5 l\u00e0 do v\u00f4 t\u00ecnh hay do ch\u1eef duy\u00ean m\u00e0 c\u1ea3 ba ng\u00f4i ch\u00f9a \u0111\u1ec1u \u0111\u01b0\u1ee3c t\u1ecda l\u1ea1c tr\u00ean nh\u1eefng v\u1ecb th\u1ebf \u0111\u1eafc \u0111\u1ecba c\u1ee7a th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, t\u1ea1o th\u00e0nh m\u1ed9t \"tam gi\u00e1c\" linh thi\u00eang trong th\u00e0nh ph\u1ed1.",
+		"danhgia":"c\u1ea3nh \u0111\u1eb9p tuy\u1ec7t v\u1eddi"
+	},
+	{
+		"id":2,
+		"ten":"B\u00e0 N\u00e0 Hills",
+		"vitri":"H\u00f2a Ninh",
+		"hinhanh":"https://saigonstartravel.com/wp-content/uploads/2019/03/7-2.jpg",
+		"thongtin":"L\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a T\u1eadp \u0111o\u00e0n C\u00f4ng vi\u00ean Gi\u1ea3i tr\u00ed Sun World v\u00e0 c\u00e1ch trung t\u00e2m th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng h\u01a1n 20 km, Sun World ba Na Hills l\u00e0 khu ngh\u1ec9 d\u01b0\u1ee1ng v\u00e0 gi\u1ea3i tr\u00ed quan tr\u1ecdng nh\u1ea5t c\u1ee7a Vi\u1ec7t Nam. \u1ede \u0111\u1ed9 cao 1.487 m so v\u1edbi m\u1ef1c n\u01b0\u1edbc bi\u1ec3n, Sun World Ba Na Hills \u0111\u01b0\u1ee3c \u0111\u1eb7t tr\u00ean thi\u00ean \u0111\u00e0ng tr\u00ean m\u1eb7t \u0111\u1ea5t, do kh\u00ed h\u1eadu ngo\u1ea1n m\u1ee5c v\u00e0 c\u1ea3nh quan thi\u00ean nhi\u00ean kh\u00e1c",
+		"danhgia":"C\u1ea3nh \u0111\u1eb9p "
+	}
+]
