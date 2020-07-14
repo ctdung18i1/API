@@ -1,2 +1,18 @@
-[{"avt_url":"https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-9/s960x960/90300394_2927713217455125_8988509000177811456_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=Zf67Hn-8wdsAX8SU4SW&_nc_ht=scontent.fhan3-2.fna&_nc_tp=7&oh=fafd94e14d6be5c2815cbce8ca0be243&oe=5EF3B32A","user":"Cao Tiến Dũng","status":"yêu em nhiều"},
-{"avt_url":"https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/p720x720/70256995_2736253429934439_4303233596216311808_o.jpg?_nc_cat=101&_nc_sid=7aed08&_nc_ohc=tLZe2biLUa8AX8thnI_&_nc_ht=scontent.fdad2-1.fna&_nc_tp=6&oh=7aa68db06ec5211b6be1c1cec373d169&oe=5EF6D997","user":"Dũng abc","status":"Hihi"}]
+[
+	{
+		"id": 1,
+		"mười": "Ch \ u00f9a Linh \ u1ee8ng",
+		"vitri": "S \ u01a1n Tr \ u00e0 - \ u0110 \ u00e0 N \ u1eb5ng",
+		"hinhanh": "https://danangfantasticity.com/wp-content/uploads/2019/09/chua-linh-ung-chon-binh-yen-giua-long-da-nang-013-2.jpg",
+		"thongtin": "Ch \ u00f9a Linh \ u1ee8ng \ u2013 B \ u00e3i B \ u1ee5t B \ u1e1i B \ u1ee5t, S \ u01a1n Tr \ u00e0, \ u0110 \ u1e1n u00f9ng mang t \ u00ean Linh \ u1ee8ng \ u1edf \ u0110 \ u00e0 N \ u1eb5ng. Kh \ u00f4ng r \ u00f5 l \ u00e0 làm v \ u00f4 t \ u00ecnh \ u00f4i ch \ u00f9a \ u01 \ u0110 \ u00e0 N \ u1eb5ng, t \ u1ea1o th \ u00e0nh m \ u1ed9t \ "tam gi \ u00e1c \" linh thi \ u00eang trong th \ u00e0nh ph \ u1ed1. ",
+		"danhgia": "c \ u1ea3nh \ u0111 \ u1eb9p tuy \ u1ec7t v \ u1eddi"
+	},
+	{
+		"id": 2,
+		"mười": "B \ u00e0 N \ u00e0 Hills",
+		"vitri": "H \ u00f2a Ninh",
+		"hinhanh": "https://saigonstartravel.com/wp-content/uploads/2019/03/7-2.jpg",
+		"thongtin": "L \ u00e0 m \ u1ed9t ph \ u1ea7n c \ u1ee7a T \ u1ea7n c \ u1ee7a T \ u1eadp \ u0111o \ u00e0n C \ u00f4ng vi \ u00e0n của bạn u00e0nh ph \ u1ed1 \ u0110 \ u00e0 N \ u1eb5ng h \ u01a1n 20 km, Sun World ba Na Hills l \ u00e0 khu ngh \ u1ec9 d \ u01b0 \ u1ee1ng v \ u00e0 c \ u1ee7a Vi \ u1ec7t Nam. bạn đang ở đây, bạn đang ở đây, bạn đang ở đây, bạn đang ở nhà của bạn, bạn đang ở nhà của bạn, bạn đang ở nhà của bạn, bạn đang ở đây
+		"danhgia": "C \ u1ea3nh \ u0111 \ u1eb9p"
+	}
+]
